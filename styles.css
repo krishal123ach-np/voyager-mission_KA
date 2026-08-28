@@ -1,0 +1,41 @@
+body {
+    background: #080b14;
+    color: #e7e9f2;
+    font-family: sans-serif;
+    padding: 24px;
+}
+
+.planet-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px;
+    margin-top: 16px;
+}
+
+.planet-card {
+    background: #0f1422;
+    border: 1px solid #22293e;
+    border-radius: 8px;
+    padding: 14px;
+}
+
+.planet-card h3 {
+    margin: 0 0 6px;
+    font-size: 15px;
+}
+
+.planet-card .stat {
+    font-size: 13px;
+    color: #8890a8;
+}
+#searchInput {
+    background: #0f1422;
+    border: 1px solid #22293e;
+    color: #e7e9f2;
+    padding: 10px 14px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 400px;
+    font-size: 14px;
+    margin-top: 12px;
+}
