@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Gaia BH1",
+    "distance_ly": 1560.0,
+    "mass_solar": 9.8
+  },
+  {
+    "name": "V616 Monocerotis",
+    "distance_ly": 3300.0,
+    "mass_solar": 6.6
+  },
+  {
+    "name": "Gaia BH2",
+    "distance_ly": 3800.0,
+    "mass_solar": 8.94
+  },
+  {
+    "name": "Cygnus X-1",
+    "distance_ly": 7200.0,
+    "mass_solar": 21.2
+  },
+  {
+    "name": "Sagittarius A*",
+    "distance_ly": 26000.0,
+    "mass_solar": 4300000.0
+  },
+  {
+    "name": "Gaia BH3",
+    "distance_ly": 1936.0,
+    "mass_solar": 32.7
+  },
+  {
+    "name": "OGLE-2011-BLG-0462",
+    "distance_ly": 5200.0,
+    "mass_solar": 7.1
+  },
+  {
+    "name": "V404 Cygni",
+    "distance_ly": 7800.0,
+    "mass_solar": 9.0
+  },
+  {
+    "name": "GS 2000+25",
+    "distance_ly": 8800.0,
+    "mass_solar": 7.5
+  },
+  {
+    "name": "MAXI J1820+070",
+    "distance_ly": 10000.0,
+    "mass_solar": 8.5
+  },
+  {
+    "name": "GRO J1655-40",
+    "distance_ly": 11000.0,
+    "mass_solar": 6.3
+  },
+  {
+    "name": "XTE J1550-564",
+    "distance_ly": 17000.0,
+    "mass_solar": 9.1
+  },
+  {
+    "name": "4U 1543-47",
+    "distance_ly": 24000.0,
+    "mass_solar": 9.4
+  }
+]
